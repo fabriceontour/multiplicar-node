@@ -21,7 +21,6 @@ switch(comando){
             })
             .catch(e => console.log(e));
         break;
-        break;
 
     default:
         console.log('comando no reconocido');
